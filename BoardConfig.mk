@@ -19,7 +19,7 @@
 
 # Inline kernel building
 TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
-TARGET_KERNEL_CONFIG := cyanogenmod_i925_defconfig
+TARGET_KERNEL_CONFIG := slim_i925_defconfig
 
 # Recovery
 TARGET_RECOVERY_FSTAB := device/samsung/i925/rootdir/fstab.smdk4x12
