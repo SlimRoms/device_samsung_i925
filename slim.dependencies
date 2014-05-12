@@ -15,9 +15,9 @@
         "branch": "kk4.4"
     },
     {
-        "repository": "CyanogenMod/android_device_samsung_p4notelte-common",
+        "repository": "SlimRoms/device_samsung_p4notelte-common",
         "target_path": "device/samsung/p4notelte-common",
-	"branch": "cm-11.0"
+	"branch": "kk4.4"
     },
     {
         "repository": "SlimRoms/proprietary_vendor_samsung",
